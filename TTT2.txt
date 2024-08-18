@@ -1,0 +1,7 @@
+Started a new company named as PodTest
+My Name is Akhil Jain
+My Age is 100 
+
+I teach FullStack SDET's
+
+I am teaching on TTT
